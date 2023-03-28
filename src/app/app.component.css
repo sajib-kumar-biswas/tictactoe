@@ -9,6 +9,7 @@ ul {
 
 ul li {
     padding: 10px;
+    float: left;
 }
 
 a {
